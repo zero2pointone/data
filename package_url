@@ -1,0 +1,293 @@
+• Acl (2.2.53) - 513 KB:
+Download: http://download.savannah.gnu.org/releases/acl/acl-2.2.53.tar.gz
+MD5 sum: 007aabf1dbb550bcddde52a244cd1070
+• Attr (2.4.48) - 457 KB:
+Home page: https://savannah.nongnu.org/projects/attr
+Download: http://download.savannah.gnu.org/releases/attr/attr-2.4.48.tar.gz
+MD5 sum: bc1e5cb5c96d99b24886f1f527d3bb3d
+19
+Linux From Scratch - Version 8.4
+• Autoconf (2.69) - 1,186 KB:
+Home page: http://www.gnu.org/software/autoconf/
+Download: http://ftp.gnu.org/gnu/autoconf/autoconf-2.69.tar.xz
+MD5 sum: 50f97f4159805e374639a73e2636f22e
+• Automake (1.16.1) - 1,499 KB:
+Home page: http://www.gnu.org/software/automake/
+Download: http://ftp.gnu.org/gnu/automake/automake-1.16.1.tar.xz
+MD5 sum: 53f38e7591fa57c3d2cee682be668e5b
+• Bash (5.0) - 9,898 KB:
+Home page: http://www.gnu.org/software/bash/
+Download: http://ftp.gnu.org/gnu/bash/bash-5.0.tar.gz
+MD5 sum: 2b44b47b905be16f45709648f671820b
+• Bc (1.07.1) - 411 KB:
+Home page: http://www.gnu.org/software/bc/
+Download: http://ftp.gnu.org/gnu/bc/bc-1.07.1.tar.gz
+MD5 sum: cda93857418655ea43590736fc3ca9fc
+• Binutils (2.32) - 20,288 KB:
+Home page: http://www.gnu.org/software/binutils/
+Download: http://ftp.gnu.org/gnu/binutils/binutils-2.32.tar.xz
+MD5 sum: 0d174cdaf85721c5723bf52355be41e6
+• Bison (3.3.2) - 2,060 KB:
+Home page: http://www.gnu.org/software/bison/
+Download: http://ftp.gnu.org/gnu/bison/bison-3.3.2.tar.xz
+MD5 sum: c9b552dee234b2f6b66e56b27e5234c9
+• Bzip2 (1.0.6) - 764 KB:
+Download: http://anduin.linuxfromscratch.org/LFS/bzip2-1.0.6.tar.gz
+MD5 sum: 00b516f4704d4a7cb50a1d97e6e8e15b
+• Check (0.12.0) - 747 KB:
+Home page: https://libcheck.github.io/check
+Download: https://github.com/libcheck/check/releases/download/0.12.0/check-0.12.0.tar.gz
+MD5 sum: 31b17c6075820a434119592941186f70
+• Coreutils (8.30) - 5,234 KB:
+Home page: http://www.gnu.org/software/coreutils/
+Download: http://ftp.gnu.org/gnu/coreutils/coreutils-8.30.tar.xz
+MD5 sum: ab06d68949758971fe744db66b572816
+• DejaGNU (1.6.2) - 514 KB:
+Home page: http://www.gnu.org/software/dejagnu/
+Download: http://ftp.gnu.org/gnu/dejagnu/dejagnu-1.6.2.tar.gz
+MD5 sum: e1b07516533f351b3aba3423fafeffd6
+• Diffutils (3.7) - 1,415 KB:
+Home page: http://www.gnu.org/software/diffutils/
+Download: http://ftp.gnu.org/gnu/diffutils/diffutils-3.7.tar.xz
+MD5 sum: 4824adc0e95dbbf11dfbdfaad6a1e461
+20
+Linux From Scratch - Version 8.4
+• E2fsprogs (1.44.5) - 7,448 KB:
+Home page: http://e2fsprogs.sourceforge.net/
+Download: https://downloads.sourceforge.net/project/e2fsprogs/e2fsprogs/v1.44.5/e2fsprogs-1.44.5.tar.gz
+MD5 sum: 8d78b11d04d26c0b2dd149529441fa80
+• Elfutils (0.176) - 8,444 KB:
+Home page: https://sourceware.org/ftp/elfutils/
+Download: https://sourceware.org/ftp/elfutils/
+Linux From Scratch - Version 8.4
+• GCC (8.2.0) - 61,974 KB:
+Home page: https://gcc.gnu.org/
+Download: http://ftp.gnu.org/gnu/gcc/gcc-8.2.0/gcc-8.2.0.tar.xz
+MD5 sum: 4ab282f414676496483b3e1793d07862
+• GDBM (1.18.1) - 920 KB:
+Home page: http://www.gnu.org/software/gdbm/
+Download: http://ftp.gnu.org/gnu/gdbm/gdbm-1.18.1.tar.gz
+MD5 sum: 988dc82182121c7570e0cb8b4fcd5415
+• Gettext (0.19.8.1) - 7,041 KB:
+Home page: http://www.gnu.org/software/gettext/
+Download: http://ftp.gnu.org/gnu/gettext/gettext-0.19.8.1.tar.xz
+MD5 sum: df3f5690eaa30fd228537b00cb7b7590
+• Glibc (2.29) - 16,129 KB:
+Home page: http://www.gnu.org/software/libc/
+Download: http://ftp.gnu.org/gnu/glibc/glibc-2.29.tar.xz
+MD5 sum: e6c279d5b2f0736f740216f152acf974
+• GMP (6.1.2) - 1,901 KB:
+Home page: http://www.gnu.org/software/gmp/
+Download: http://ftp.gnu.org/gnu/gmp/gmp-6.1.2.tar.xz
+MD5 sum: f58fa8001d60c4c77595fbbb62b63c1d
+• Gperf (3.1) - 1,188 KB:
+Home page: http://www.gnu.org/software/gperf/
+Download: http://ftp.gnu.org/gnu/gperf/gperf-3.1.tar.gz
+MD5 sum: 9e251c0a618ad0824b51117d5d9db87e
+• Grep (3.3) - 1,440 KB:
+Home page: http://www.gnu.org/software/grep/
+Download: http://ftp.gnu.org/gnu/grep/grep-3.3.tar.xz
+MD5 sum: 05d0718a1b7cc706a4bdf8115363f1ed
+• Groff (1.22.4) - 4,044 KB:
+Home page: http://www.gnu.org/software/groff/
+Download: http://ftp.gnu.org/gnu/groff/groff-1.22.4.tar.gz
+MD5 sum: 08fb04335e2f5e73f23ea4c3adbf0c5f
+• GRUB (2.02) - 5,970 KB:
+Home page: http://www.gnu.org/software/grub/
+Download: https://ftp.gnu.org/gnu/grub/grub-2.02.tar.xz
+MD5 sum: 8a4a2a95aac551fb0fba860ceabfa1d3
+• Gzip (1.10) - 757 KB:
+Home page: http://www.gnu.org/software/gzip/
+Download: http://ftp.gnu.org/gnu/gzip/gzip-1.10.tar.xz
+MD5 sum: 691b1221694c3394f1c537df4eee39d3
+22
+Linux From Scratch - Version 8.4
+• Iana-Etc (2.30) - 201 KB:
+Home page: http://freecode.com/projects/iana-etc
+Download: http://anduin.linuxfromscratch.org/LFS/iana-etc-2.30.tar.bz2
+MD5 sum: 3ba3afb1d1b261383d247f46cb135ee8
+• Inetutils (1.9.4) - 1,333 KB:
+Home page: http://www.gnu.org/software/inetutils/
+Download: http://ftp.gnu.org/gnu/inetutils/inetutils-1.9.4.tar.xz
+MD5 sum: 87fef1fa3f603aef11c41dcc097af75e
+• Intltool (0.51.0) - 159 KB:
+Home page: https://freedesktop.org/wiki/Software/intltool
+Download: https://launchpad.net/intltool/trunk/0.51.0/+download/intltool-0.51.0.tar.gz
+MD5 sum: 12e517cac2b57a0121cda351570f1e63
+• IPRoute2 (4.20.0) - 691 KB:
+Home page: https://www.kernel.org/pub/linux/utils/net/iproute2/
+Download: https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-4.20.0.tar.xz
+MD5 sum: f3dab4c812812bbb5873cb90f471bcbf
+• Kbd (2.0.4) - 1,008 KB:
+Home page: http://ftp.altlinux.org/pub/people/legion/kbd
+Download: https://www.kernel.org/pub/linux/utils/kbd/kbd-2.0.4.tar.xz
+MD5 sum: c1635a5a83b63aca7f97a3eab39ebaa6
+• Kmod (26) - 540 KB:
+Download: https://www.kernel.org/pub/linux/utils/kernel/kmod/kmod-26.tar.xz
+MD5 sum: 1129c243199bdd7db01b55a61aa19601
+• Less (530) - 332 KB:
+Home page: http://www.greenwoodsoftware.com/less/
+Download: http://www.greenwoodsoftware.com/less/less-530.tar.gz
+MD5 sum: 6a39bccf420c946b0fd7ffc64961315b
+• LFS-Bootscripts (20180820) - 32 KB:
+Download: http://www.linuxfromscratch.org/lfs/downloads/8.4/lfs-bootscripts-20180820.tar.bz2
+MD5 sum: e08811a18356eeef524b2ed333e8cb86
+• Libcap (2.26) - 66 KB:
+Home page: https://sites.google.com/site/fullycapable/
+Download: https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2/libcap-2.26.tar.xz
+MD5 sum: 968ac4d42a1a71754313527be2ab5df3
+• Libffi (3.2.1) - 920 KB:
+Home page: https://sourceware.org/libffi/
+Download: ftp://sourceware.org/pub/libffi/libffi-3.2.1.tar.gz
+MD5 sum: 83b89587607e3eb65c70d361f13bab43
+• Libpipeline (1.5.1) - 965 KB:
+Home page: http://libpipeline.nongnu.org/
+Download: http://download.savannah.gnu.org/releases/libpipeline/libpipeline-1.5.1.tar.gz
+MD5 sum: 4c8fe6cd85422baafd6e060f896c61bc
+23
+Linux From Scratch - Version 8.4
+• Libtool (2.4.6) - 951 KB:
+Home page: http://www.gnu.org/software/libtool/
+Download: http://ftp.gnu.org/gnu/libtool/libtool-2.4.6.tar.xz
+MD5 sum: 1bfb9b923f2c1339b4d2ce1807064aa5
+• Linux (4.20.12) - 101,841 KB:
+Home page: https://www.kernel.org/
+Download: https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.20.12.tar.xz
+MD5 sum: edd3015435d60598b99cf6aaf223710e
+Note
+The Linux kernel is updated relatively often, many times due to discoveries of security vulnerabilities. The
+latest available 4.20.x kernel version should be used, unless the errata page says otherwise.
+For users with limited speed or expensive bandwidth who wish to update the Linux kernel, a baseline
+version of the package and patches can be downloaded separately. This may save some time or cost for a
+subsequent patch level upgrade within a minor release.
+• M4 (1.4.18) - 1,180 KB:
+Home page: http://www.gnu.org/software/m4/
+Download: http://ftp.gnu.org/gnu/m4/m4-1.4.18.tar.xz
+MD5 sum: 730bb15d96fffe47e148d1e09235af82
+• Make (4.2.1) - 1,375 KB:
+Home page: http://www.gnu.org/software/make/
+Download: http://ftp.gnu.org/gnu/make/make-4.2.1.tar.bz2
+MD5 sum: 15b012617e7c44c0ed482721629577ac
+• Man-DB (2.8.5) - 1,746 KB:
+Home page: https://www.nongnu.org/man-db/
+Download: http://download.savannah.gnu.org/releases/man-db/man-db-2.8.5.tar.xz
+MD5 sum: c5c6c3434be14a5527d43b5ad0f09a13
+• Man-pages (4.16) - 1,592 KB:
+Home page: https://www.kernel.org/doc/man-pages/
+Download: https://www.kernel.org/pub/linux/docs/man-pages/man-pages-4.16.tar.xz
+MD5 sum: ad9f1ff81276fe8d90d077484d6d4b5e
+• Meson (0.49.2) - 1,310 KB:
+Home page: https://mesonbuild.com
+Download: https://github.com/mesonbuild/meson/releases/download/0.49.2/meson-0.49.2.tar.gz
+MD5 sum: 0267b0871266056184c484792572c682
+• MPC (1.1.0) - 685 KB:
+Home page: http://www.multiprecision.org/
+Download: https://ftp.gnu.org/gnu/mpc/mpc-1.1.0.tar.gz
+MD5 sum: 4125404e41e482ec68282a2e687f6c73
+• MPFR (4.0.2) - 1,409 KB:
+Home page: https://www.mpfr.org/
+Download: http://www.mpfr.org/mpfr-4.0.2/mpfr-4.0.2.tar.xz
+MD5 sum: 320fbc4463d4c8cb1e566929d8adc4f8
+24
+Linux From Scratch - Version 8.4
+• Ninja (1.9.0) - 187 KB:
+Home page: https://ninja-build.org/
+Download: https://github.com/ninja-build/ninja/archive/v1.9.0/ninja-1.9.0.tar.gz
+MD5 sum: f340be768a76724b83e6daab69009902
+• Ncurses (6.1) - 3,288 KB:
+Home page: http://www.gnu.org/software/ncurses/
+Download: http://ftp.gnu.org/gnu/ncurses/ncurses-6.1.tar.gz
+MD5 sum: 98c889aaf8d23910d2b92d65be2e737a
+• OpenSSL (1.1.1a) - 8,160 KB:
+Home page: https://www.openssl.org/
+Download: https://openssl.org/source/openssl-1.1.1a.tar.gz
+MD5 sum: 963deb2272d6be7d4c2458afd2517b73
+• Patch (2.7.6) - 766 KB:
+Home page: https://savannah.gnu.org/projects/patch/
+Download: http://ftp.gnu.org/gnu/patch/patch-2.7.6.tar.xz
+MD5 sum: 78ad9937e4caadcba1526ef1853730d5
+• Perl (5.28.1) - 12,083 KB:
+Home page: https://www.perl.org/
+Download: https://www.cpan.org/src/5.0/perl-5.28.1.tar.xz
+MD5 sum: fbb590c305f2f88578f448581b8cf9c4
+• Pkg-config (0.29.2) - 1,970 KB:
+Home page: https://www.freedesktop.org/wiki/Software/pkg-config
+Download: https://pkg-config.freedesktop.org/releases/pkg-config-0.29.2.tar.gz
+MD5 sum: f6e931e319531b736fadc017f470e68a
+• Procps (3.3.15) - 884 KB:
+Home page: https://sourceforge.net/projects/procps-ng
+Download: https://sourceforge.net/projects/procps-ng/files/Production/procps-ng-3.3.15.tar.xz
+MD5 sum: 2b0717a7cb474b3d6dfdeedfbad2eccc
+• Psmisc (23.2) - 297 KB:
+Home page: http://psmisc.sourceforge.net/
+Download: https://sourceforge.net/projects/psmisc/files/psmisc/psmisc-23.2.tar.xz
+MD5 sum: 0524258861f00be1a02d27d39d8e5e62
+• Python (3.7.2) - 16,648 KB:
+Home page: https://www.python.org/
+Download: https://www.python.org/ftp/python/3.7.2/Python-3.7.2.tar.xz
+MD5 sum: df6ec36011808205beda239c72f947cb
+• Python Documentation (3.7.2) - 6,072 KB:
+Download: https://docs.python.org/ftp/python/doc/3.7.2/python-3.7.2-docs-html.tar.bz2
+MD5 sum: 107ade7bb17efd104a22b2d457f4cb67
+• Readline (8.0) - 2,907 KB:
+Home page: https://tiswww.case.edu/php/chet/readline/rltop.html
+Download: http://ftp.gnu.org/gnu/readline/readline-8.0.tar.gz
+MD5 sum: 7e6c1f16aee3244a69aba6e438295ca3
+25
+Linux From Scratch - Version 8.4
+• Sed (4.7) - 1,268 KB:
+Home page: http://www.gnu.org/software/sed/
+Download: http://ftp.gnu.org/gnu/sed/sed-4.7.tar.xz
+MD5 sum: 777ddfd9d71dd06711fe91f0925e1573
+• Shadow (4.6) - 1,639 KB:
+Download: https://github.com/shadow-maint/shadow/releases/download/4.6/shadow-4.6.tar.xz
+MD5 sum: b491fecbf1232632c32ff8f1437fd60e
+• Sysklogd (1.5.1) - 88 KB:
+Home page: http://www.infodrom.org/projects/sysklogd/
+Download: http://www.infodrom.org/projects/sysklogd/download/sysklogd-1.5.1.tar.gz
+MD5 sum: c70599ab0d037fde724f7210c2c8d7f8
+• Sysvinit (2.93) - 115 KB:
+Home page: https://savannah.nongnu.org/projects/sysvinit
+Download: http://download.savannah.gnu.org/releases/sysvinit/sysvinit-2.93.tar.xz
+MD5 sum: 041dbe36a5dd80b2108aff305bc10620
+• Tar (1.31) - 2,052 KB:
+Home page: http://www.gnu.org/software/tar/
+Download: http://ftp.gnu.org/gnu/tar/tar-1.31.tar.xz
+MD5 sum: bc9a89da1185ceb2210de12552c43ce2
+• Tcl (8.6.9) - 9,772 KB:
+Home page: http://tcl.sourceforge.net/
+Download: https://downloads.sourceforge.net/tcl/tcl8.6.9-src.tar.gz
+MD5 sum: aa0a121d95a0e7b73a036f26028538d4
+• Texinfo (6.5) - 4,399 KB:
+Home page: http://www.gnu.org/software/texinfo/
+Download: http://ftp.gnu.org/gnu/texinfo/texinfo-6.5.tar.xz
+MD5 sum: 3715197e62e0e07f85860b3d7aab55ed
+• Time Zone Data (2018i) - 369 KB:
+Home page: https://www.iana.org/time-zones
+Download: https://www.iana.org/time-zones/repository/releases/tzdata2018i.tar.gz
+MD5 sum: b3f0a1a789480a036e58466cd0702477
+• Udev-lfs Tarball (udev-lfs-20171102) - 11 KB:
+Download: http://anduin.linuxfromscratch.org/LFS/udev-lfs-20171102.tar.bz2
+MD5 sum: d92afb0c6e8e616792068ee4737b0d24
+• Util-linux (2.33.1) - 4,542 KB:
+Home page: http://freecode.com/projects/util-linux
+Download: https://www.kernel.org/pub/linux/utils/util-linux/v2.33/util-linux-2.33.1.tar.xz
+MD5 sum: 6fcfea2043b5ac188fd3eed56aeb5d90
+• Vim (8.1) - 10,995 KB:
+Home page: https://www.vim.org
+Download: ftp://ftp.vim.org/pub/vim/unix/vim-8.1.tar.bz2
+MD5 sum: 1739a1df312305155285f0cfa6118294
+26
+Linux From Scratch - Version 8.4
+• XML::Parser (2.44) - 232 KB:
+Home page: https://github.com/chorny/XML-Parser
+Download: https://cpan.metacpan.org/authors/id/T/TO/TODDR/XML-Parser-2.44.tar.gz
+MD5 sum: af4813fe3952362451201ced6fbce379
+• Xz Utils (5.2.4) - 1030 KB:
+Home page: https://tukaani.org/xz
+Download: https://tukaani.org/xz/xz-5.2.4.tar.xz
+MD5 sum: 003e4d0b1b1899fc6e3000b24feddf7c
+• Zlib (1.2.11) - 457 KB:
+Home page: https://www.zlib.net/
+Download: https://zlib.net/zlib-1.2.11.tar.xz
+MD5 sum: 85adef240c5f370b308da8c938951a68
